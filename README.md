@@ -5,21 +5,7 @@
 Sou estudante de Engenharia de Software na UCSAL, com 25 anos e formação técnica em Desenvolvimento de Sistemas pelo SENAI CIMATEC (2022). Busco ativamente uma oportunidade de estágio ou júnior para aplicar meus conhecimentos em desenvolvimento de software. Tenho foco prático em tecnologias como Java, porém estou totalmente aberto a aprender e atuar com novas linguagens. Meu objetivo é contribuir para projetos inovadores, aprender com desenvolvedores experientes e consolidar minha carreira como Engenheiro de Software.
 
 
-<p align="left">
-    <a href="https://github.com/maurici01?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/maurici01?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/maurici01?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/maurici01?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p>
     <a href="https://www.linkedin.com/in/mauricio-gabriel-s/">
         <img 
             alt="Linkedin" 
@@ -29,6 +15,7 @@ Sou estudante de Engenharia de Software na UCSAL, com 25 anos e formação técn
     </a>
     
 </p>
+
 
 ---
 
