@@ -2,7 +2,7 @@
 
 **`Engenheiro de Software`**
 
-Sou estudante de Engenharia de Software na UCSAL, com 24 anos e formação técnica em Desenvolvimento de Sistemas pelo SENAI CIMATEC (2022). Busco ativamente uma oportunidade de estágio ou júnior para aplicar meus conhecimentos em desenvolvimento de software. Tenho foco prático em tecnologias como Java, porém estou totalmente aberto a aprender e atuar com novas linguagens. Meu objetivo é contribuir para projetos inovadores, aprender com desenvolvedores experientes e consolidar minha carreira como Engenheiro de Software.
+Sou estudante de Engenharia de Software na UCSAL, com 25 anos e formação técnica em Desenvolvimento de Sistemas pelo SENAI CIMATEC (2022). Busco ativamente uma oportunidade de estágio ou júnior para aplicar meus conhecimentos em desenvolvimento de software. Tenho foco prático em tecnologias como Java, porém estou totalmente aberto a aprender e atuar com novas linguagens. Meu objetivo é contribuir para projetos inovadores, aprender com desenvolvedores experientes e consolidar minha carreira como Engenheiro de Software.
 
 
 <p align="left">
